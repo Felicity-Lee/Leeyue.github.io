@@ -12,7 +12,7 @@ title                    : "Li Yue / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Li Yue"
 description              : &description "a second year undergraduate from Wuhan Universary"
-url                      : https://Leeyue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://felicity-lee.github.io/Leeyue.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
